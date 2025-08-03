@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/masemoel/device_oneplus_waffle_recovery'
+        default: 'https://github.com/snowwolf725/device_oneplus_waffle_ofox'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
@@ -26,7 +26,7 @@ on:
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
-        default: 'https://github.com/masemoel/device_oneplus_sm86xx-common-recovery'
+        default: 'https://github.com/snowwolf725/device_oneplus_sm86xx-common_ofox'
       COMMON_PATH:
         description: 'COMMON_PATH (if no common tree, leave blank)'
         required: false
